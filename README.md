@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hum-sc
 - 👀 I’m interested in tech.
-- 🌱 I’m currently learning js and react js
+- 🌱 I’m currently work with python
 - 💞️ I’m looking to collaborate on some project.
 - 📫 Will reach me on twiter as @hum-sc
 
